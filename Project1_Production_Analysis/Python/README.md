@@ -270,7 +270,7 @@ Ziel war eine klare und schnelle Entscheidungsgrundlage ohne unnötige Visualisi
 
 ## 📂 Weiterverwendung der Daten
 
-Die bereinigte Version des Datensatzes wurde als `production_analysis_clean.csv` exportiert und für die weiteren Analysen in SQL sowie Power BI verwendet.
+Die bereinigte Version des Datensatzes wurde als `production_analysis_clean.csv` exportiert und für die weiteren Analysen in Power BI verwendet.
 
 
 
