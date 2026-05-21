@@ -287,4 +287,3 @@ Die Analyse zeigt, dass finanzielle Verluste nicht ausschließlich durch Ausschu
 
 
 Die Kombination aus technischer Analyse und Kostenbetrachtung ermöglicht konkrete datenbasierte Maßnahmen zur Optimierung der Produktion.
-
