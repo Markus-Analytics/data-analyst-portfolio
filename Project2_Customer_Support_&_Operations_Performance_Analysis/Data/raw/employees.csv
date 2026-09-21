@@ -1,0 +1,401 @@
+employee_id,employee_name,team,experience_level,shift,region,hire_date
+EMP-0001,Gina Le,Platform Operations,Mid,Morning,North America,2020-01-15 03:52:07
+EMP-0002,Tim Parks,Escalation Team,Senior,Evening,North America,2019-06-25 09:59:34
+EMP-0003,Jose Lucas,Integration Team,Mid,Evening,Asia-Pacific,2020-09-03 23:20:02
+EMP-0004,Felicia Wright,Platform Operations,Mid,Morning,North America,2022-03-07 23:24:43
+EMP-0005,Emily Miller,Platform Operations,Senior,Evening,Asia-Pacific,2019-10-07 21:16:03
+EMP-0006,Jay Bailey,Account Services,Mid,Night,South America,2020-03-19 17:18:26
+EMP-0007,Ricardo Jones,Escalation Team,Mid,Morning,North America,2020-12-17 03:51:46
+EMP-0008,Stacey Christensen,Billing Support,Mid,Morning,Europe,2020-08-11 16:45:11
+EMP-0009,Kevin Chandler,Technical Support,Mid,Morning,Asia-Pacific,2024-01-14 14:57:49
+EMP-0010,Charles Meyer,Integration Team,Senior,Evening,Asia-Pacific,2021-08-02 12:56:16
+EMP-0011,Daniel Garcia,Platform Operations,Senior,Evening,South America,2023-09-06 02:14:52
+EMP-0012,Lauren Smith,Billing Support,Junior,Evening,Asia-Pacific,2023-03-15 07:04:25
+EMP-0013,Mark Lewis,Platform Operations,Mid,Morning,South America,2020-07-25 10:20:17
+EMP-0014,John Callahan,Billing Support,Mid,Morning,Europe,2024-07-04 23:54:02
+EMP-0015,Priscilla Walton,Technical Support,Junior,Morning,North America,2019-06-16 23:45:57
+EMP-0016,Tasha West,Escalation Team,Mid,Morning,South America,2021-05-17 07:02:36
+EMP-0017,Angel Collins,Escalation Team,Junior,Morning,South America,2019-03-06 00:56:58
+EMP-0018,Katherine Moore,Account Services,Mid,Evening,Europe,2021-11-07 21:07:08
+EMP-0019,Tamara Flores,Technical Support,Junior,Morning,Europe,2023-01-19 09:13:21
+EMP-0020,Jennifer Schneider,Account Services,Mid,Night,South America,2020-06-20 12:15:41
+EMP-0021,Monica Rodriguez,Integration Team,Junior,Evening,South America,2024-09-02 22:26:52
+EMP-0022,Steven Brooks,Integration Team,Mid,Evening,North America,2023-08-05 13:00:46
+EMP-0023,Jacob Browning,Technical Support,Mid,Evening,South America,2021-11-23 03:30:56
+EMP-0024,Jacqueline Bryant,Technical Support,Junior,Night,North America,2020-10-10 22:05:16
+EMP-0025,Megan Klein,Escalation Team,Mid,Morning,North America,2022-09-13 05:17:31
+EMP-0026,Michael Richardson,Platform Operations,Mid,Morning,South America,2019-12-17 07:15:12
+EMP-0027,Jesse Conley,Technical Support,Mid,Morning,North America,2024-01-03 00:12:32
+EMP-0028,Jordan Collins,Technical Support,Junior,Morning,Asia-Pacific,2023-11-05 03:59:06
+EMP-0029,Kyle Sanchez,Escalation Team,Junior,Morning,North America,2019-11-25 02:18:55
+EMP-0030,Susan Dominguez,Platform Operations,Junior,Evening,Europe,2019-04-19 23:45:41
+EMP-0031,Jeffery Davis,Platform Operations,Mid,Morning,Asia-Pacific,2019-05-11 12:10:39
+EMP-0032,Karen Fisher,Account Services,Mid,Night,North America,2020-05-24 07:46:27
+EMP-0033,Ryan Vaughn,Platform Operations,Mid,Morning,Europe,2023-09-30 15:26:51
+EMP-0034,Adam Keller,Integration Team,Mid,Morning,Asia-Pacific,2019-05-31 21:38:25
+EMP-0035,Jorge Glenn,Account Services,Junior,Morning,Europe,2019-11-12 00:13:02
+EMP-0036,Benjamin Cox,Integration Team,Mid,Morning,North America,2022-05-25 14:05:50
+EMP-0037,Wesley Jordan,Technical Support,Junior,Morning,South America,2021-05-07 05:07:11
+EMP-0038,Tommy Hale,Technical Support,Mid,Morning,North America,2022-06-02 19:49:37
+EMP-0039,Christopher Green,Technical Support,Mid,Morning,Europe,2022-12-31 22:42:25
+EMP-0040,Susan Roberts,Integration Team,Mid,Evening,South America,2024-02-25 12:31:02
+EMP-0041,Laurie Martinez,Account Services,Mid,Morning,Europe,2020-04-30 18:16:08
+EMP-0042,Barbara Cooper,Technical Support,Junior,Evening,Europe,2021-04-20 17:19:48
+EMP-0043,Shannon King,Technical Support,Junior,Morning,Europe,2024-02-22 06:12:12
+EMP-0044,Holly Diaz,Technical Support,Senior,Evening,North America,2019-07-06 18:03:03
+EMP-0045,Frank Jones,Escalation Team,Junior,Night,Europe,2021-08-17 07:52:28
+EMP-0046,Robert Rollins,Account Services,Senior,Evening,Europe,2021-10-16 15:23:28
+EMP-0047,James Taylor,Technical Support,Junior,Morning,Asia-Pacific,2020-11-12 02:45:39
+EMP-0048,Robert Carlson,Technical Support,Junior,Morning,South America,2023-02-20 21:26:25
+EMP-0049,Kenneth Cooley,Technical Support,Junior,Morning,Europe,2019-06-27 16:28:20
+EMP-0050,William Meyer,Billing Support,Mid,Morning,Asia-Pacific,2024-10-10 06:52:15
+EMP-0051,Jonathan Mack,Technical Support,Senior,Evening,North America,2022-08-18 22:17:41
+EMP-0052,Karen Douglas,Platform Operations,Mid,Morning,Asia-Pacific,2022-03-03 09:45:25
+EMP-0053,Michael Coleman,Technical Support,Mid,Evening,North America,2022-04-07 16:49:42
+EMP-0054,Haley Watson,Billing Support,Mid,Morning,Europe,2021-04-15 11:22:59
+EMP-0055,Richard Castaneda,Platform Operations,Mid,Morning,Europe,2023-04-25 19:36:23
+EMP-0056,Robert Davila,Billing Support,Mid,Evening,Asia-Pacific,2021-03-01 03:05:34
+EMP-0057,Chase Ellis,Integration Team,Mid,Night,North America,2024-07-08 11:43:52
+EMP-0058,Kathleen Bennett,Technical Support,Junior,Night,North America,2022-12-30 02:10:44
+EMP-0059,Jared Jackson,Technical Support,Senior,Morning,North America,2023-05-20 23:23:02
+EMP-0060,Craig Jones MD,Billing Support,Senior,Morning,Europe,2022-10-27 14:59:32
+EMP-0061,Rodney Chapman,Integration Team,Junior,Evening,North America,2020-03-26 07:19:57
+EMP-0062,Kimberly Flores,Account Services,Mid,Morning,Europe,2021-05-17 00:54:32
+EMP-0063,Joe Lewis,Billing Support,Mid,Morning,Europe,2019-10-11 12:54:11
+EMP-0064,Amanda Aguilar,Technical Support,Senior,Evening,Asia-Pacific,2022-10-24 14:38:24
+EMP-0065,Erin Payne,Technical Support,Mid,Evening,Europe,2020-03-29 22:48:34
+EMP-0066,Tom Ponce,Billing Support,Mid,Evening,Europe,2024-09-15 18:18:18
+EMP-0067,Cody Williams,Escalation Team,Mid,Morning,Europe,2021-05-21 12:29:13
+EMP-0068,Ashley Lynch,Account Services,Senior,Morning,North America,2021-02-26 06:39:14
+EMP-0069,Gregory Guzman,Platform Operations,Junior,Morning,Asia-Pacific,2019-09-11 09:28:05
+EMP-0070,John Richardson II,Escalation Team,Junior,Evening,North America,2024-02-03 20:52:23
+EMP-0071,Shawn Santiago,Account Services,Mid,Evening,Asia-Pacific,2020-03-09 00:21:58
+EMP-0072,Nathaniel Montes,Platform Operations,Mid,Evening,Europe,2020-09-20 18:39:23
+EMP-0073,Emily Woods,Technical Support,Junior,Morning,North America,2024-05-17 11:06:20
+EMP-0074,Frank Wright,Integration Team,Mid,Morning,Asia-Pacific,2019-02-12 03:46:45
+EMP-0075,Joyce Russo,Billing Support,Mid,Morning,North America,2024-02-23 15:05:11
+EMP-0076,Stacey Long,Technical Support,Mid,Night,Europe,2022-06-11 10:54:39
+EMP-0077,Jacob Castro,Platform Operations,Junior,Evening,North America,2021-05-16 13:54:19
+EMP-0078,Jessica Adams,Account Services,Mid,Morning,Asia-Pacific,2022-05-15 07:34:31
+EMP-0079,David Bailey,Platform Operations,Junior,Morning,North America,2019-06-24 23:42:52
+EMP-0080,Jillian Lopez,Integration Team,Mid,Evening,North America,2019-07-04 23:56:22
+EMP-0081,Brian Matthews,Technical Support,Mid,Morning,South America,2021-05-04 11:26:37
+EMP-0082,Krystal Hicks,Integration Team,Mid,Morning,South America,2019-09-07 17:43:36
+EMP-0083,Andrew Morrow,Technical Support,Senior,Morning,South America,2022-07-22 00:39:02
+EMP-0084,Robert Ross,Escalation Team,Junior,Morning,Asia-Pacific,2023-04-20 17:55:56
+EMP-0085,Gregory Cobb,Billing Support,Junior,Evening,Asia-Pacific,2020-12-02 12:09:47
+EMP-0086,John Williams,Technical Support,Junior,Night,North America,2022-11-29 02:34:00
+EMP-0087,Brent Randall,Billing Support,Junior,Evening,North America,2021-07-11 00:13:49
+EMP-0088,Christian Montgomery,Technical Support,Mid,Morning,Europe,2023-01-28 10:10:07
+EMP-0089,Aaron Mason,Platform Operations,Mid,Morning,Europe,2022-08-13 18:10:55
+EMP-0090,Sandra Roberts,Integration Team,Mid,Morning,Asia-Pacific,2022-03-14 23:14:00
+EMP-0091,Lawrence Daniel,Escalation Team,Junior,Night,Asia-Pacific,2022-12-25 20:15:01
+EMP-0092,Candice Ewing,Escalation Team,Mid,Morning,Asia-Pacific,2022-11-12 05:56:29
+EMP-0093,Emily Clark,Technical Support,Mid,Morning,North America,2023-10-04 15:16:09
+EMP-0094,John Richards,Technical Support,Senior,Morning,North America,2019-07-05 16:05:29
+EMP-0095,Renee West,Billing Support,Mid,Evening,North America,2020-04-23 12:08:14
+EMP-0096,Keith Oneal,Technical Support,Junior,Morning,Asia-Pacific,2020-07-12 01:30:24
+EMP-0097,Howard Winters,Platform Operations,Junior,Morning,South America,2023-07-21 19:27:14
+EMP-0098,Laura Brock,Escalation Team,Mid,Evening,North America,2020-05-24 19:53:56
+EMP-0099,Chris Lane,Platform Operations,Junior,Night,South America,2019-06-10 15:11:33
+EMP-0100,Benjamin Miller,Escalation Team,Mid,Evening,Asia-Pacific,2023-03-16 13:57:58
+EMP-0101,Alexis Waters,Account Services,Mid,Morning,North America,2021-07-28 00:24:14
+EMP-0102,Adam Hubbard,Account Services,Junior,Morning,Europe,2024-01-26 05:19:24
+EMP-0103,Lori Thomas,Technical Support,Junior,Morning,Europe,2022-09-26 13:47:15
+EMP-0104,Robert Roberts,Technical Support,Mid,Morning,Europe,2021-12-14 08:51:26
+EMP-0105,Patrick Wright,Account Services,Mid,Evening,Asia-Pacific,2019-06-18 00:04:38
+EMP-0106,Michael Holmes,Integration Team,Mid,Evening,North America,2021-01-11 23:24:37
+EMP-0107,Anthony Norman,Integration Team,Mid,Morning,North America,2022-09-06 07:15:25
+EMP-0108,Melissa Martinez,Platform Operations,Junior,Morning,South America,2023-04-10 07:30:39
+EMP-0109,Jeremy Washington,Account Services,Senior,Night,Asia-Pacific,2022-07-08 23:14:49
+EMP-0110,Wendy Reed,Escalation Team,Mid,Morning,Asia-Pacific,2023-02-12 10:38:09
+EMP-0111,Edward Schwartz,Platform Operations,Senior,Morning,South America,2022-05-07 04:18:55
+EMP-0112,Christopher Carpenter,Technical Support,Junior,Morning,South America,2024-11-02 10:47:53
+EMP-0113,Jack Robertson,Billing Support,Mid,Morning,Europe,2019-01-03 03:37:14
+EMP-0114,Jason Dean,Technical Support,Junior,Morning,Asia-Pacific,2024-10-18 16:10:54
+EMP-0115,Mary Wang,Billing Support,Junior,Evening,Europe,2020-02-29 12:07:14
+EMP-0116,Andre Cox,Technical Support,Senior,Morning,Europe,2021-10-23 11:15:34
+EMP-0117,Alan Wells,Platform Operations,Junior,Morning,Europe,2024-04-09 13:45:53
+EMP-0118,Megan Simmons,Integration Team,Mid,Evening,Europe,2022-05-22 15:28:43
+EMP-0119,Kelly Rowe,Technical Support,Mid,Morning,Europe,2024-12-29 01:52:34
+EMP-0120,Gary Torres,Platform Operations,Mid,Night,Europe,2020-01-16 01:45:02
+EMP-0121,Joy Williams,Account Services,Junior,Morning,Asia-Pacific,2021-08-30 10:47:15
+EMP-0122,Rachel Hatfield,Account Services,Mid,Morning,North America,2023-06-14 01:31:07
+EMP-0123,Jean Kennedy,Account Services,Junior,Evening,South America,2019-01-06 22:10:33
+EMP-0124,Steven Jackson,Integration Team,Senior,Morning,North America,2021-09-19 10:45:43
+EMP-0125,William Petersen,Technical Support,Mid,Night,South America,2019-05-27 16:05:21
+EMP-0126,Bryan Pittman,Integration Team,Junior,Morning,North America,2020-04-09 20:48:10
+EMP-0127,David Gonzalez,Platform Operations,Mid,Evening,South America,2021-11-27 03:42:29
+EMP-0128,Robert Garcia,Billing Support,Senior,Morning,South America,2021-12-16 06:04:32
+EMP-0129,Chelsea Garcia,Technical Support,Senior,Morning,South America,2024-01-26 07:25:07
+EMP-0130,Dwayne Price,Platform Operations,Mid,Night,South America,2021-11-12 20:10:12
+EMP-0131,Daniel Simpson,Technical Support,Junior,Morning,South America,2019-10-08 16:53:43
+EMP-0132,Rachel Alvarado,Escalation Team,Mid,Evening,Europe,2022-07-14 19:27:14
+EMP-0133,Deborah Cook,Integration Team,Mid,Evening,Asia-Pacific,2023-11-03 05:00:16
+EMP-0134,Timothy Day,Platform Operations,Mid,Morning,North America,2021-08-22 01:36:20
+EMP-0135,Ryan Lee,Escalation Team,Mid,Morning,Europe,2021-10-09 04:18:03
+EMP-0136,Miguel Douglas,Billing Support,Mid,Night,Asia-Pacific,2023-10-15 18:25:32
+EMP-0137,Connor Patterson,Platform Operations,Mid,Morning,Europe,2019-07-25 07:00:14
+EMP-0138,Amber Williams,Technical Support,Mid,Morning,Europe,2023-09-13 04:09:43
+EMP-0139,Tim Blake,Account Services,Mid,Evening,North America,2022-03-13 22:59:25
+EMP-0140,Jeremy Montgomery,Integration Team,Mid,Morning,Asia-Pacific,2022-10-28 22:04:55
+EMP-0141,Amanda Wilson,Account Services,Junior,Morning,South America,2024-11-19 21:30:49
+EMP-0142,Patrick Fernandez,Billing Support,Mid,Night,Europe,2024-07-10 23:04:06
+EMP-0143,Kristen Lester,Platform Operations,Mid,Evening,North America,2023-12-06 17:03:53
+EMP-0144,Vincent Hernandez,Platform Operations,Junior,Evening,North America,2024-04-28 11:53:56
+EMP-0145,Lindsey Morgan,Escalation Team,Junior,Morning,Europe,2023-03-20 18:15:30
+EMP-0146,Russell Brown,Platform Operations,Mid,Morning,South America,2022-07-27 03:12:33
+EMP-0147,Amanda Shelton,Escalation Team,Mid,Morning,South America,2023-02-17 06:55:08
+EMP-0148,Caleb Shepard,Platform Operations,Junior,Morning,South America,2021-01-13 00:44:24
+EMP-0149,Darius Lane,Integration Team,Mid,Evening,Asia-Pacific,2019-05-21 16:28:56
+EMP-0150,Timothy Atkins,Account Services,Senior,Night,North America,2021-11-17 11:24:02
+EMP-0151,Anita Smith,Technical Support,Mid,Evening,North America,2021-07-13 07:49:04
+EMP-0152,Maria Peters,Account Services,Junior,Evening,South America,2020-02-17 06:26:04
+EMP-0153,Andrea Murillo,Integration Team,Mid,Evening,Europe,2022-03-20 04:54:04
+EMP-0154,Matthew Ellis,Technical Support,Junior,Evening,South America,2019-04-15 15:07:52
+EMP-0155,Jerry Baker,Technical Support,Junior,Morning,South America,2024-08-27 02:38:35
+EMP-0156,Susan Morton,Escalation Team,Junior,Evening,North America,2023-01-29 00:19:56
+EMP-0157,Maria Harris,Account Services,Mid,Morning,Asia-Pacific,2020-08-17 05:11:25
+EMP-0158,Brian Cole,Technical Support,Senior,Morning,Europe,2019-04-05 06:50:33
+EMP-0159,Richard Morris,Account Services,Senior,Evening,Asia-Pacific,2024-09-12 16:15:05
+EMP-0160,Mariah Ashley,Billing Support,Junior,Morning,Europe,2023-02-28 06:44:59
+EMP-0161,Christian Jordan,Platform Operations,Junior,Evening,Asia-Pacific,2024-10-21 22:56:33
+EMP-0162,Benjamin Best,Integration Team,Junior,Morning,Europe,2022-07-18 06:33:47
+EMP-0163,Erica Graham,Technical Support,Senior,Evening,Asia-Pacific,2022-10-09 15:17:15
+EMP-0164,Anne Gomez,Account Services,Junior,Evening,North America,2020-05-04 03:38:59
+EMP-0165,Deanna Nelson,Technical Support,Senior,Night,Asia-Pacific,2023-11-17 23:22:57
+EMP-0166,Dalton Lowe,Integration Team,Senior,Morning,Europe,2023-04-29 21:29:29
+EMP-0167,Lori Turner,Account Services,Mid,Evening,Europe,2023-10-06 03:12:15
+EMP-0168,Laurie Aguirre,Platform Operations,Mid,Morning,Europe,2024-10-09 10:47:01
+EMP-0169,Laura Holt,Technical Support,Mid,Morning,Asia-Pacific,2023-02-11 23:02:25
+EMP-0170,Catherine Taylor,Technical Support,Junior,Morning,North America,2021-07-28 20:35:07
+EMP-0171,William Porter,Technical Support,Junior,Evening,Europe,2023-12-29 17:01:15
+EMP-0172,Leah Bryant,Technical Support,Mid,Night,Asia-Pacific,2021-02-06 01:19:43
+EMP-0173,Ashley Gordon,Billing Support,Mid,Morning,Asia-Pacific,2023-03-12 18:33:45
+EMP-0174,Kenneth Wagner,Billing Support,Senior,Morning,South America,2019-10-30 07:29:57
+EMP-0175,Philip Navarro,Billing Support,Mid,Evening,North America,2024-11-17 07:46:01
+EMP-0176,Eric Merritt,Integration Team,Senior,Evening,South America,2024-01-27 10:20:30
+EMP-0177,Wesley Taylor,Account Services,Mid,Evening,North America,2019-02-28 21:19:54
+EMP-0178,Jordan Young,Technical Support,Mid,Morning,South America,2023-07-08 23:31:48
+EMP-0179,Terry Smith,Technical Support,Junior,Morning,Asia-Pacific,2021-08-23 01:34:42
+EMP-0180,George Scott,Account Services,Senior,Evening,North America,2022-02-26 17:09:35
+EMP-0181,Richard Lee,Technical Support,Senior,Morning,Europe,2020-01-11 12:09:17
+EMP-0182,Michael Reed,Technical Support,Mid,Morning,North America,2020-01-08 13:23:33
+EMP-0183,Kevin Sawyer,Platform Operations,Mid,Morning,North America,2020-01-26 12:26:28
+EMP-0184,Thomas Dean,Platform Operations,Senior,Evening,Europe,2019-03-08 00:23:12
+EMP-0185,Erin Dillon,Billing Support,Junior,Morning,Asia-Pacific,2019-01-14 05:19:47
+EMP-0186,Tammy Harrison,Account Services,Mid,Evening,Asia-Pacific,2019-04-05 22:36:03
+EMP-0187,Heather Gallegos,Billing Support,Junior,Morning,Asia-Pacific,2022-11-26 04:17:44
+EMP-0188,Wendy Vance,Platform Operations,Senior,Morning,Europe,2021-05-29 04:05:45
+EMP-0189,Lisa Yu,Billing Support,Junior,Morning,Asia-Pacific,2022-08-11 10:00:33
+EMP-0190,Ricky Lynn,Technical Support,Senior,Morning,Asia-Pacific,2023-05-03 17:42:45
+EMP-0191,Sean Pitts,Billing Support,Senior,Evening,Europe,2020-04-06 12:50:18
+EMP-0192,Christine Wilson,Technical Support,Mid,Morning,Asia-Pacific,2020-08-23 13:27:10
+EMP-0193,Jeffery Garcia,Escalation Team,Mid,Night,Europe,2023-05-08 20:14:42
+EMP-0194,Jared Solis,Technical Support,Junior,Night,Asia-Pacific,2019-09-23 06:44:41
+EMP-0195,Clayton Jimenez,Technical Support,Mid,Morning,South America,2020-05-29 08:52:10
+EMP-0196,David Lopez,Technical Support,Senior,Evening,South America,2023-08-01 00:46:39
+EMP-0197,Robert White,Platform Operations,Junior,Morning,Europe,2020-01-24 08:41:11
+EMP-0198,Andrew Garcia,Integration Team,Senior,Evening,Asia-Pacific,2019-05-06 18:05:03
+EMP-0199,Michael Garcia,Account Services,Senior,Evening,North America,2020-07-06 05:27:02
+EMP-0200,Steven Stanton,Technical Support,Junior,Night,Asia-Pacific,2022-02-09 00:35:10
+EMP-0201,Patrick Harris,Integration Team,Senior,Evening,South America,2020-10-31 12:12:26
+EMP-0202,Amy Jones,Account Services,Junior,Morning,South America,2019-01-20 00:24:28
+EMP-0203,Casey Jackson,Technical Support,Junior,Night,Europe,2022-02-03 01:18:26
+EMP-0204,Shawn Buck,Account Services,Junior,Evening,Asia-Pacific,2020-09-10 19:45:35
+EMP-0205,Michele Evans,Account Services,Mid,Evening,Europe,2024-10-11 07:23:18
+EMP-0206,Sharon Atkins,Billing Support,Junior,Morning,Europe,2022-10-30 09:17:16
+EMP-0207,Nicholas Thompson,Account Services,Senior,Night,Europe,2023-04-01 18:37:55
+EMP-0208,David Allison,Technical Support,Junior,Morning,North America,2024-04-06 03:58:44
+EMP-0209,Adam Oneill,Technical Support,Junior,Night,North America,2020-01-11 11:30:02
+EMP-0210,Kristen Jackson,Technical Support,Mid,Night,Asia-Pacific,2020-04-11 15:29:10
+EMP-0211,Michelle Gray,Account Services,Junior,Evening,Europe,2022-11-23 03:04:26
+EMP-0212,Amanda Freeman,Account Services,Mid,Night,North America,2020-05-21 04:37:18
+EMP-0213,Daniel James,Billing Support,Junior,Night,Europe,2023-05-19 17:12:02
+EMP-0214,Michael Cisneros,Technical Support,Mid,Morning,South America,2024-12-02 00:42:01
+EMP-0215,Michael Young,Technical Support,Mid,Morning,Europe,2023-01-29 22:21:25
+EMP-0216,Michael Harris,Technical Support,Senior,Morning,South America,2019-04-28 05:38:20
+EMP-0217,Veronica Martin,Integration Team,Senior,Morning,Asia-Pacific,2021-05-13 08:41:55
+EMP-0218,Jamie Taylor,Escalation Team,Mid,Evening,South America,2024-08-26 10:14:27
+EMP-0219,Raymond Adams,Platform Operations,Mid,Night,Europe,2021-05-27 10:34:45
+EMP-0220,James Haas,Technical Support,Junior,Morning,North America,2024-04-01 12:52:44
+EMP-0221,Chad Mclaughlin,Technical Support,Mid,Morning,North America,2023-12-23 22:11:37
+EMP-0222,Brittany Adams,Platform Operations,Junior,Morning,Europe,2019-05-08 14:49:17
+EMP-0223,Alexander Garcia,Platform Operations,Junior,Morning,South America,2019-12-24 11:47:17
+EMP-0224,Jeffery Williams,Billing Support,Mid,Morning,South America,2023-07-13 15:29:32
+EMP-0225,Brett Bush,Account Services,Mid,Morning,Europe,2019-07-16 04:28:50
+EMP-0226,Jennifer Horton,Integration Team,Junior,Evening,South America,2020-09-29 13:32:49
+EMP-0227,Justin Mendoza,Platform Operations,Junior,Evening,Asia-Pacific,2022-01-24 14:00:57
+EMP-0228,Christopher Taylor,Technical Support,Junior,Morning,South America,2024-05-23 01:19:49
+EMP-0229,Jordan Park,Billing Support,Mid,Morning,Asia-Pacific,2024-01-18 05:25:37
+EMP-0230,Kelly Trujillo,Escalation Team,Mid,Morning,South America,2019-03-17 11:17:43
+EMP-0231,Miss Tina Parker,Technical Support,Mid,Morning,North America,2024-08-25 00:58:17
+EMP-0232,Anthony Monroe,Escalation Team,Mid,Evening,North America,2019-10-18 03:00:05
+EMP-0233,Michael Arroyo,Technical Support,Senior,Evening,South America,2024-08-14 01:33:21
+EMP-0234,Jessica Hughes,Technical Support,Senior,Morning,North America,2019-01-27 00:53:57
+EMP-0235,Timothy Green,Technical Support,Senior,Morning,South America,2020-03-03 19:00:40
+EMP-0236,Richard Trevino,Billing Support,Mid,Evening,Asia-Pacific,2022-01-17 05:02:30
+EMP-0237,Jessica Aguilar,Integration Team,Junior,Evening,North America,2024-11-25 22:07:11
+EMP-0238,Ann Newman,Billing Support,Mid,Evening,Asia-Pacific,2024-10-01 17:00:29
+EMP-0239,Angela Jackson,Technical Support,Mid,Night,Asia-Pacific,2022-11-27 23:12:30
+EMP-0240,Dana Rivera,Account Services,Mid,Evening,North America,2024-02-16 16:44:28
+EMP-0241,Lisa Randall,Technical Support,Senior,Morning,Europe,2023-07-23 18:42:15
+EMP-0242,Shawn Peterson,Technical Support,Mid,Morning,North America,2023-08-25 07:02:40
+EMP-0243,Tiffany Bush,Platform Operations,Mid,Evening,Europe,2023-07-18 10:42:28
+EMP-0244,Lance Wilson,Billing Support,Senior,Morning,Asia-Pacific,2021-12-12 03:27:29
+EMP-0245,Victor Berg,Technical Support,Junior,Morning,Asia-Pacific,2020-06-09 19:29:25
+EMP-0246,Charles Oliver,Technical Support,Junior,Morning,Europe,2019-06-30 05:11:52
+EMP-0247,Robert Robinson,Account Services,Senior,Morning,South America,2023-11-01 20:57:00
+EMP-0248,Frank Allen,Technical Support,Mid,Morning,North America,2021-05-07 07:40:24
+EMP-0249,Natasha Castaneda,Technical Support,Junior,Morning,North America,2023-04-29 00:16:02
+EMP-0250,Kelli Valencia,Platform Operations,Mid,Evening,South America,2021-09-13 12:34:32
+EMP-0251,Antonio Davis,Billing Support,Junior,Morning,Asia-Pacific,2022-01-15 03:05:48
+EMP-0252,Andrew Garcia,Technical Support,Mid,Morning,Asia-Pacific,2022-06-09 00:26:24
+EMP-0253,Donna Hudson,Technical Support,Mid,Evening,South America,2021-03-21 08:53:05
+EMP-0254,David Bryant,Platform Operations,Junior,Night,Asia-Pacific,2022-12-23 06:53:30
+EMP-0255,Paul Myers,Escalation Team,Senior,Morning,Asia-Pacific,2023-12-13 17:56:41
+EMP-0256,Ryan Pierce,Technical Support,Junior,Morning,Asia-Pacific,2023-05-11 10:43:28
+EMP-0257,Angela Williams,Account Services,Mid,Morning,North America,2019-09-04 16:24:57
+EMP-0258,Katie Short,Account Services,Mid,Evening,Europe,2023-10-15 23:33:50
+EMP-0259,Peter Jones,Escalation Team,Junior,Night,South America,2022-07-21 03:27:07
+EMP-0260,Joseph Jordan,Escalation Team,Mid,Morning,North America,2023-09-16 15:24:50
+EMP-0261,Holly Bell,Platform Operations,Junior,Morning,Europe,2020-10-25 19:31:54
+EMP-0262,Andrew Thomas,Escalation Team,Senior,Morning,North America,2024-05-20 15:05:30
+EMP-0263,Marie Rogers,Billing Support,Senior,Morning,North America,2020-11-07 22:02:45
+EMP-0264,Joanna Ballard,Technical Support,Junior,Evening,South America,2024-05-03 14:32:35
+EMP-0265,Jennifer Williams,Account Services,Junior,Morning,North America,2023-02-05 19:38:17
+EMP-0266,Kenneth Brooks,Account Services,Mid,Morning,South America,2019-05-30 08:10:08
+EMP-0267,Andrew Wood,Technical Support,Junior,Morning,North America,2024-10-21 12:54:53
+EMP-0268,Diana Lee,Billing Support,Junior,Night,Asia-Pacific,2021-04-22 06:25:24
+EMP-0269,Steven Rocha,Escalation Team,Senior,Morning,North America,2021-03-06 04:10:21
+EMP-0270,Taylor Woods,Technical Support,Mid,Morning,Europe,2022-10-21 19:44:50
+EMP-0271,Jermaine Taylor,Account Services,Senior,Morning,Asia-Pacific,2024-10-22 06:18:39
+EMP-0272,Tracy Bridges,Technical Support,Mid,Evening,North America,2019-02-10 15:52:51
+EMP-0273,Nicholas Delgado,Technical Support,Mid,Morning,Asia-Pacific,2021-08-17 19:21:17
+EMP-0274,Donna Smith,Account Services,Mid,Night,South America,2019-09-22 20:39:40
+EMP-0275,Michael Chavez,Billing Support,Senior,Night,North America,2023-05-18 07:41:23
+EMP-0276,Thomas Cole,Billing Support,Junior,Morning,Asia-Pacific,2023-02-25 12:15:03
+EMP-0277,Christopher Burns,Escalation Team,Junior,Evening,Asia-Pacific,2024-03-28 07:14:40
+EMP-0278,Robin Harris,Integration Team,Mid,Morning,South America,2020-04-25 00:09:22
+EMP-0279,Jessica Cameron,Integration Team,Mid,Morning,South America,2021-09-08 16:08:07
+EMP-0280,Angela Reid,Platform Operations,Mid,Evening,Asia-Pacific,2022-04-29 08:20:10
+EMP-0281,Heidi Smith,Account Services,Junior,Morning,North America,2020-08-11 17:34:59
+EMP-0282,Jesse Melendez,Platform Operations,Junior,Night,Asia-Pacific,2019-11-30 20:33:58
+EMP-0283,Dawn Little,Technical Support,Mid,Evening,North America,2024-12-26 17:21:39
+EMP-0284,Anthony Smith,Billing Support,Mid,Night,North America,2019-11-16 11:44:51
+EMP-0285,James Sanchez,Account Services,Mid,Evening,Asia-Pacific,2019-04-18 12:30:23
+EMP-0286,Toni Brown,Technical Support,Junior,Evening,Asia-Pacific,2024-03-26 08:06:34
+EMP-0287,Tina Griffin,Integration Team,Junior,Evening,South America,2019-09-26 23:59:39
+EMP-0288,Nicholas Smith,Integration Team,Mid,Morning,South America,2020-07-18 22:30:42
+EMP-0289,Samantha Ibarra,Integration Team,Junior,Morning,Europe,2019-02-16 03:05:48
+EMP-0290,Monica Alvarado,Account Services,Mid,Night,North America,2020-06-26 21:36:19
+EMP-0291,Tyrone Rivera,Technical Support,Mid,Night,Europe,2019-12-17 19:14:38
+EMP-0292,Kevin Garcia,Technical Support,Mid,Night,South America,2024-02-26 04:03:56
+EMP-0293,Kayla Mathis,Billing Support,Mid,Morning,North America,2023-03-09 14:35:43
+EMP-0294,Travis Gross,Platform Operations,Junior,Evening,South America,2022-01-06 20:26:36
+EMP-0295,Anthony Chambers,Escalation Team,Mid,Evening,North America,2024-09-18 22:00:10
+EMP-0296,Keith Holmes,Platform Operations,Junior,Morning,Asia-Pacific,2021-09-13 14:18:53
+EMP-0297,Brittany Shepard,Technical Support,Mid,Night,North America,2024-04-29 23:10:15
+EMP-0298,Robert Richard,Integration Team,Junior,Evening,South America,2021-01-06 21:58:22
+EMP-0299,Michael Kelly,Account Services,Junior,Evening,Asia-Pacific,2022-11-12 00:17:30
+EMP-0300,Randall Porter,Technical Support,Senior,Evening,North America,2021-12-20 15:36:48
+EMP-0301,Kathy Gardner,Platform Operations,Senior,Morning,Asia-Pacific,2023-06-11 18:00:44
+EMP-0302,Tammy Baker,Technical Support,Junior,Evening,Asia-Pacific,2019-10-09 15:43:31
+EMP-0303,Kevin Decker,Integration Team,Senior,Evening,Europe,2024-08-10 05:11:56
+EMP-0304,Christopher Moore,Technical Support,Mid,Evening,Asia-Pacific,2022-07-25 11:51:19
+EMP-0305,Mitchell Sharp,Account Services,Junior,Evening,Europe,2024-05-16 05:12:52
+EMP-0306,Donna Holmes,Platform Operations,Mid,Morning,South America,2024-06-22 18:01:28
+EMP-0307,Joseph Shelton,Platform Operations,Junior,Evening,North America,2023-11-27 09:00:44
+EMP-0308,Carol Adams,Platform Operations,Senior,Morning,South America,2021-08-18 15:18:29
+EMP-0309,Kelli Torres,Account Services,Junior,Morning,North America,2019-10-04 20:33:42
+EMP-0310,Heather Mcconnell,Account Services,Mid,Morning,Europe,2022-07-26 19:06:20
+EMP-0311,Katie Tucker,Billing Support,Mid,Morning,North America,2022-12-03 07:09:31
+EMP-0312,Stacy Figueroa,Technical Support,Junior,Night,South America,2020-01-01 04:31:32
+EMP-0313,Gina Keller,Platform Operations,Mid,Evening,North America,2020-07-16 19:24:08
+EMP-0314,Kayla Khan,Account Services,Junior,Morning,Asia-Pacific,2022-03-18 12:01:40
+EMP-0315,Jonathan Dodson,Platform Operations,Mid,Morning,Europe,2022-11-09 21:57:05
+EMP-0316,Gregory Gutierrez,Technical Support,Senior,Morning,Europe,2021-01-23 04:07:43
+EMP-0317,Nancy Miller,Billing Support,Junior,Evening,Europe,2019-08-04 00:59:32
+EMP-0318,Luis Schwartz,Technical Support,Mid,Morning,Asia-Pacific,2023-09-11 14:54:50
+EMP-0319,Kristina Church,Platform Operations,Mid,Evening,Europe,2021-02-26 21:39:01
+EMP-0320,Paul Evans,Technical Support,Senior,Evening,North America,2021-02-18 21:35:21
+EMP-0321,Donna Evans,Escalation Team,Mid,Morning,South America,2020-01-19 10:05:53
+EMP-0322,Troy Lane,Billing Support,Junior,Morning,South America,2022-03-16 15:33:18
+EMP-0323,Andre Parker,Technical Support,Junior,Morning,South America,2021-11-10 22:28:36
+EMP-0324,Johnathan Gomez,Technical Support,Mid,Evening,Europe,2019-10-17 10:27:01
+EMP-0325,Joshua Thomas,Technical Support,Mid,Night,Europe,2021-07-09 06:29:17
+EMP-0326,Jennifer Washington,Account Services,Mid,Morning,Asia-Pacific,2024-10-30 12:43:06
+EMP-0327,Maria Miller,Integration Team,Junior,Night,South America,2022-01-02 05:00:42
+EMP-0328,Danielle Hall,Integration Team,Junior,Evening,South America,2020-09-07 06:35:49
+EMP-0329,Terri Haney,Technical Support,Junior,Morning,Asia-Pacific,2024-03-30 20:08:04
+EMP-0330,Debra Morrison,Billing Support,Mid,Evening,South America,2022-01-13 19:23:34
+EMP-0331,Glenn Hale,Platform Operations,Mid,Night,North America,2020-06-05 23:49:58
+EMP-0332,Sara Rogers,Account Services,Junior,Evening,South America,2022-11-07 21:38:22
+EMP-0333,Jason Meyers,Billing Support,Senior,Morning,South America,2021-09-08 22:04:17
+EMP-0334,James Donaldson,Technical Support,Senior,Evening,North America,2019-06-19 02:52:31
+EMP-0335,Robert Hopkins,Integration Team,Junior,Morning,Asia-Pacific,2022-01-12 14:21:51
+EMP-0336,Monica Wright,Billing Support,Senior,Evening,South America,2024-10-10 10:05:10
+EMP-0337,Mark Hudson,Billing Support,Mid,Evening,North America,2024-11-16 18:34:34
+EMP-0338,Scott Floyd,Billing Support,Senior,Night,North America,2019-12-20 03:24:11
+EMP-0339,Linda Mitchell,Technical Support,Junior,Morning,North America,2020-11-13 19:54:01
+EMP-0340,Hannah Mcdonald,Technical Support,Mid,Morning,North America,2023-05-07 03:08:43
+EMP-0341,James Green,Technical Support,Junior,Night,North America,2024-04-16 16:03:28
+EMP-0342,Jose Zhang,Technical Support,Mid,Night,North America,2021-01-10 21:39:44
+EMP-0343,Harold Holmes,Technical Support,Junior,Evening,Europe,2019-01-12 17:13:11
+EMP-0344,David Davis,Technical Support,Senior,Morning,North America,2021-06-03 17:41:02
+EMP-0345,Cody Ramirez,Technical Support,Senior,Evening,Asia-Pacific,2021-05-14 02:15:23
+EMP-0346,Elizabeth Collins,Technical Support,Junior,Morning,South America,2021-05-24 07:12:35
+EMP-0347,Kristina Wagner,Technical Support,Mid,Evening,Asia-Pacific,2021-03-03 03:11:05
+EMP-0348,Alexander Lopez,Technical Support,Mid,Evening,South America,2020-07-12 13:12:34
+EMP-0349,Katherine Jackson,Integration Team,Senior,Evening,Asia-Pacific,2021-08-09 18:47:36
+EMP-0350,Andrew Davis,Account Services,Mid,Morning,North America,2020-09-10 16:57:35
+EMP-0351,Karen Cuevas,Platform Operations,Junior,Night,Europe,2021-12-21 18:01:26
+EMP-0352,Jennifer Choi,Account Services,Junior,Evening,North America,2020-11-01 14:50:39
+EMP-0353,Andrew Shah,Technical Support,Junior,Evening,South America,2019-12-02 05:40:34
+EMP-0354,Natasha Powell,Billing Support,Senior,Evening,South America,2024-06-07 15:17:42
+EMP-0355,Randall Stokes,Technical Support,Junior,Night,Europe,2022-11-23 03:21:01
+EMP-0356,Tonya Carter,Technical Support,Mid,Morning,Europe,2020-11-25 06:08:52
+EMP-0357,Amanda Whitney,Escalation Team,Mid,Evening,South America,2024-05-25 04:55:27
+EMP-0358,Melissa Woodard,Technical Support,Senior,Morning,North America,2023-02-25 10:13:32
+EMP-0359,Bryan Phillips,Technical Support,Junior,Evening,Europe,2024-11-08 12:24:00
+EMP-0360,Barbara Soto,Platform Operations,Junior,Evening,Asia-Pacific,2022-02-17 17:56:04
+EMP-0361,Larry Johnson,Technical Support,Junior,Evening,South America,2024-06-17 13:58:57
+EMP-0362,Melinda Mullins,Technical Support,Senior,Morning,North America,2023-09-23 23:06:06
+EMP-0363,Terri Lyons,Billing Support,Mid,Morning,South America,2019-01-13 02:56:02
+EMP-0364,Michael Mooney,Integration Team,Mid,Morning,Europe,2022-08-06 23:11:52
+EMP-0365,Amy Price,Platform Operations,Junior,Evening,Europe,2022-04-04 12:48:24
+EMP-0366,David Aguilar,Technical Support,Mid,Night,Europe,2022-11-22 04:33:17
+EMP-0367,James Bond,Account Services,Mid,Morning,Europe,2021-09-22 23:02:32
+EMP-0368,Beth Vega,Technical Support,Junior,Morning,North America,2020-02-03 05:13:06
+EMP-0369,Sarah Smith,Technical Support,Senior,Morning,North America,2019-11-20 01:02:20
+EMP-0370,Samantha Snyder,Account Services,Mid,Night,South America,2021-08-28 16:28:49
+EMP-0371,Alison Barker,Technical Support,Mid,Morning,North America,2021-05-12 19:16:27
+EMP-0372,Michelle Patel,Account Services,Junior,Morning,South America,2023-08-10 12:00:46
+EMP-0373,Wendy Bates,Escalation Team,Senior,Night,North America,2021-10-07 07:59:52
+EMP-0374,Lisa Phillips,Platform Operations,Senior,Night,Europe,2020-10-02 20:37:38
+EMP-0375,William Lewis,Integration Team,Mid,Morning,Asia-Pacific,2023-05-16 22:34:49
+EMP-0376,Rebecca Bell,Billing Support,Mid,Evening,South America,2022-12-14 16:32:15
+EMP-0377,Casey Howard,Account Services,Junior,Morning,Europe,2024-10-15 02:52:25
+EMP-0378,Carolyn Morris,Platform Operations,Mid,Night,North America,2019-02-02 23:20:42
+EMP-0379,Ronald Carter,Billing Support,Senior,Morning,North America,2022-02-05 11:12:23
+EMP-0380,Theresa Miller,Billing Support,Senior,Morning,Asia-Pacific,2022-08-28 13:40:24
+EMP-0381,Melanie Taylor,Billing Support,Senior,Morning,Europe,2022-06-15 06:12:45
+EMP-0382,Tyler Baxter,Account Services,Senior,Morning,North America,2019-03-24 23:58:18
+EMP-0383,Tonya Long,Technical Support,Mid,Morning,South America,2022-09-04 03:26:25
+EMP-0384,David Mclaughlin,Account Services,Mid,Morning,North America,2023-01-24 16:20:32
+EMP-0385,Jordan Gallagher,Account Services,Junior,Morning,South America,2024-10-28 05:31:51
+EMP-0386,Ashley Ross,Platform Operations,Senior,Night,North America,2019-08-07 21:20:41
+EMP-0387,Bobby Gomez,Integration Team,Mid,Night,North America,2022-06-15 01:43:52
+EMP-0388,Jennifer Mccann,Account Services,Junior,Morning,South America,2023-06-07 21:31:43
+EMP-0389,Danny Chan,Platform Operations,Junior,Night,North America,2022-02-09 01:57:33
+EMP-0390,Travis Simmons,Technical Support,Mid,Night,South America,2024-12-07 02:55:17
+EMP-0391,Thomas Allen,Technical Support,Senior,Night,Europe,2021-02-26 02:18:46
+EMP-0392,Juan Johnson,Escalation Team,Junior,Morning,Europe,2019-09-06 11:21:52
+EMP-0393,Jessica Robinson,Platform Operations,Mid,Morning,South America,2020-08-02 05:35:34
+EMP-0394,Laurie Jensen,Escalation Team,Senior,Morning,South America,2022-02-05 10:00:35
+EMP-0395,Wesley Jones,Account Services,Mid,Morning,North America,2019-04-15 17:05:32
+EMP-0396,Joseph Jones,Account Services,Mid,Evening,North America,2020-09-12 04:40:14
+EMP-0397,Chad Mathis,Platform Operations,Mid,Morning,North America,2022-05-18 17:46:27
+EMP-0398,Peggy Brooks,Billing Support,Senior,Evening,Asia-Pacific,2023-12-10 21:36:05
+EMP-0399,Kenneth Sparks,Escalation Team,Senior,Morning,Europe,2020-12-01 03:31:38
+EMP-0400,Brent Perez,Technical Support,Senior,Night,Europe,2023-10-16 23:46:39
