@@ -10,7 +10,7 @@ Die Analyse wurde mit **DuckDB** durchgeführt.
 
 ---
 
-## 🎯 Ziel des Projekts
+## Ziel des Projekts
 
 Untersucht wurden drei zentrale Fragestellungen:
 
@@ -20,7 +20,7 @@ Untersucht wurden drei zentrale Fragestellungen:
 
 ---
 
-## 📁 Datensatz
+## Datensatz
 
 Der Datensatz umfasst **50.000 Zeilen** und enthält unter anderem:
 
@@ -44,7 +44,7 @@ Berücksichtigt wurden typische Effekte wie:
 
 ---
 
-## 🛠️ Verwendete Tools
+## Verwendete Tools
 
 - SQL
 - DuckDB
@@ -53,7 +53,7 @@ Berücksichtigt wurden typische Effekte wie:
 
 ---
 
-## 📊 Durchgeführte Analysen
+## Durchgeführte Analysen
 
 ### 1. Scrap Analysis
 
@@ -109,7 +109,7 @@ Ergebnis:
 
 ---
 
-## 📈 Zentrale Erkenntnisse
+## Zentrale Erkenntnisse
 
 - **M3** ist qualitativ die kritischste Maschine (höchster Ausschuss)
 - **M1** ist kostenmäßig relevant durch hohe Produktionsmenge
@@ -117,7 +117,7 @@ Ergebnis:
 
 ---
 
-## 💡 Business Empfehlungen
+## Business Empfehlungen
 
 - Wartung und Qualitätsprüfung von Maschine 3 priorisieren
 - Effizienzpotenziale bei Maschine 1 prüfen
@@ -125,7 +125,7 @@ Ergebnis:
 
 ---
 
-## 📂 Projektdateien
+## Projektdateien
 
 - Scrap_Analysis.sql
 - Cost_Analysis.sql
@@ -134,6 +134,6 @@ Ergebnis:
 
 ---
 
-## 📌 Fazit
+## Fazit
 
 Dieses Projekt zeigt meine Fähigkeit, mit SQL reale Business-Fragen zu beantworten, Kennzahlen zu berechnen und aus Daten konkrete Handlungsempfehlungen abzuleiten.
