@@ -1,6 +1,6 @@
-# 📊 Production Analysis Project
+# Production Analysis Project
 
-## 🎯 Projektübersicht
+## Projektübersicht
 
 Analyse von Produktionsdaten zur Identifikation von:
 - Qualitätsproblemen
@@ -8,24 +8,24 @@ Analyse von Produktionsdaten zur Identifikation von:
 - Kosten
 - Stillständen
 
-## 🛠️ Verwendete Tools
+## Verwendete Tools
 - Python
 - SQL
 - Power BI
 - Visual Studio Code
 
-## 📁 Projektstruktur
+## Projektstruktur
 
-### 🐍 Python
+### Python
 Datenbereinigung, Feature Engineering und Kostenanalyse.
 
-### 🗄️ SQL
+### SQL
 Business-Analysen zu Ausschuss, Kosten und Stillstand.
 
-### 📈 Power BI
+### Power BI
 Interaktives Dashboard zur Visualisierung der KPIs.
 
-## 🔍 Wichtigste Erkenntnisse
+## Wichtigste Erkenntnisse
 - Maschine 3 zeigt die höchste Ausschussquote
 - Maschine 2 verursacht die höchsten Stillstandskosten
 - Maschine 1 erzeugt die höchsten Gesamtkosten
