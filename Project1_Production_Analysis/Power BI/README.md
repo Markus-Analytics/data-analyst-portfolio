@@ -23,4 +23,5 @@ Visualisierung von Produktions-, Ausschuss- und Stillstandsdaten zur Identifikat
 
 ## Dashboard Vorschau
 
+
 ![Dashboard Vorschau](dashboard_overview.png)
