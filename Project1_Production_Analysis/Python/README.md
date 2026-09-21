@@ -1,8 +1,8 @@
-# 📊 Produktionsanalyse
+# Produktionsanalyse
 
 
 
-## 🎯 Projektübersicht
+## Projektübersicht
 
 
 
@@ -26,7 +26,7 @@ Die zentrale Business-Frage lautete:
 
 
 
-## 📁 Datensatz
+## Datensatz
 
 
 
@@ -72,7 +72,7 @@ Dabei wurden typische Effekte berücksichtigt:
 
 
 
-## 🧹 Datenaufbereitung
+## Datenaufbereitung
 
 
 
@@ -106,7 +106,7 @@ Durchgeführte Bereinigungs- und Transformationsschritte:
 
 
 
-## 📊 Durchgeführte Analysen
+## Durchgeführte Analysen
 
 
 
@@ -192,7 +192,7 @@ Analyse des finanziellen Schadens durch Maschinenstillstand:
 
 
 
-## 📈 Visualisierung
+## Visualisierung
 
 
 
@@ -216,7 +216,7 @@ Ziel war eine klare und schnelle Entscheidungsgrundlage ohne unnötige Visualisi
 
 
 
-## 🧠 Zentrale Erkenntnisse
+## Zentrale Erkenntnisse
 
 
 
@@ -232,7 +232,7 @@ Ziel war eine klare und schnelle Entscheidungsgrundlage ohne unnötige Visualisi
 
 
 
-## 💡 Business Empfehlungen
+## Business Empfehlungen
 
 
 
@@ -248,7 +248,7 @@ Ziel war eine klare und schnelle Entscheidungsgrundlage ohne unnötige Visualisi
 
 
 
-## 🛠️ Verwendete Tools
+## Verwendete Tools
 
 
 
@@ -268,7 +268,7 @@ Ziel war eine klare und schnelle Entscheidungsgrundlage ohne unnötige Visualisi
 
 
 
-## 📂 Weiterverwendung der Daten
+## Weiterverwendung der Daten
 
 
 
@@ -280,7 +280,7 @@ Die bereinigte Version des Datensatzes wurde als `production_analysis_clean.csv`
 
 
 
-## 📌 Fazit
+## Fazit
 
 
 
